@@ -17,7 +17,8 @@ title: JaeRyn's Tech Blog
 name: JaeRyn's Tech Blog
 description: 
   블로그 생성
-baseurl: '/JaeRyn.github.io/' # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
+url : '/JaeRyn.github.io/'
 github_username:  JaeRyn
 
 # jekyll-paginate configuration

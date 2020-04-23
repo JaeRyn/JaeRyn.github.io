@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "JaeRyn's Tech Blog"
-name: JaeRyn
+name: "JaeRyn"
 description: > 
-  블로그 생성
+  "블로그 생성"
 baseurl: "" # the subpath of your site, e.g. /blog
 url : "https://JaeRyn.github.io/"
 github_username:  JaeRyn
